@@ -1,0 +1,17 @@
+{
+  "rss": [
+    "https://qiita.com/tech-favorites/feed",
+    "https://zenn.dev/feed",
+    "https://aws.amazon.com/jp/blogs/news/feed/",
+    "https://developer.chrome.com/feeds/blog.xml",
+    "https://engineering.mercari.com/blog/feed.xml"
+  ],
+  "github_repos": [
+    "facebook/react",
+    "vercel/next.js",
+    "nodejs/node",
+    "vitejs/vite",
+    "microsoft/TypeScript"
+  ],
+  "twitter_users": []
+}
