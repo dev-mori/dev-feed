@@ -1,0 +1,282 @@
+[
+  {
+    "title": "週刊AWS – 2025/9/22週",
+    "date": "2025-09-29T02:16:20.000Z",
+    "source": "Amazon Web Services ブログ",
+    "url": "https://aws.amazon.com/jp/blogs/news/aws-weekly-20250922/",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQLVU6BcFRzWeY4y2hx\"}"
+  },
+  {
+    "title": "週刊生成AI with AWS – 2025/9/22週",
+    "date": "2025-09-29T00:57:36.000Z",
+    "source": "Amazon Web Services ブログ",
+    "url": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20250922/",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQLWY5b6MDbS3acApMF\"}"
+  },
+  {
+    "title": "vercel/next.js – v15.6.0-canary.33",
+    "date": "2025-09-28T23:37:17.000Z",
+    "source": "GitHub",
+    "url": "https://github.com/vercel/next.js/releases/tag/v15.6.0-canary.33",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQLXkWUgHuqNUVxnQKB\"}"
+  },
+  {
+    "title": "コーディングエージェントを汎用AIエージェントとして使う",
+    "date": "2025-09-28T13:15:59.000Z",
+    "source": "Zennのトレンド",
+    "url": "https://zenn.dev/robustonian/articles/spirit_invest_agent",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQLYpFjJPMP9zmEgFvp\"}"
+  },
+  {
+    "title": "[Unity] セーブ機能はもっと楽できるはず",
+    "date": "2025-09-28T12:45:23.000Z",
+    "source": "Zennのトレンド",
+    "url": "https://zenn.dev/fish_dolls/articles/7401bee1ceb5c3",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQLZywwstLEdMBRmrtR\"}"
+  },
+  {
+    "title": "Gitコマンド覚えなくてOK！VSCode「Git Graph」で始める超かんたんGit入門 | 初心者向け基本操作・使い方ガイド",
+    "date": "2025-09-28T12:10:43.000Z",
+    "source": "Zennのトレンド",
+    "url": "https://zenn.dev/rikuogawa/articles/083025a97ede40",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQLb2D5aA2jocSmKaCm\"}"
+  },
+  {
+    "title": "DuckDBにMVTが来た！フロントで完結するベクトルタイル配信",
+    "date": "2025-09-28T11:41:01.000Z",
+    "source": "Zennのトレンド",
+    "url": "https://zenn.dev/groovyjovy/articles/fb3438bf14a5d4",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQLc5x1d4iaQSNdKSQm\"}"
+  },
+  {
+    "title": "そのAI生成コード、全部レビューしますか？全部信じますか？",
+    "date": "2025-09-28T08:39:37.000Z",
+    "source": "Zennのトレンド",
+    "url": "https://zenn.dev/r_kaga/articles/66c190413d3ab9",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQLdCRazWTS6Rjwjzkz\"}"
+  },
+  {
+    "title": "おうちではじめる セキュアなハニーポットの戦略",
+    "date": "2025-09-28T06:41:38.000Z",
+    "source": "Zennのトレンド",
+    "url": "https://zenn.dev/ngstk/articles/cba2bc328d23ed",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQLeGv2Maj9UxsvZU55\"}"
+  },
+  {
+    "title": "Axiosのメリットを説明してみる",
+    "date": "2025-09-28T06:09:49.000Z",
+    "source": "Zennのトレンド",
+    "url": "https://zenn.dev/rin__rin/articles/b5541c847d7607",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQLfLAaqtrCv7HYKFiQ\"}"
+  },
+  {
+    "title": "公式singleflightを約2倍高速化したGenerics対応実装と最適化 #gocon",
+    "date": "2025-09-28T04:20:40.000Z",
+    "source": "Zennのトレンド",
+    "url": "https://zenn.dev/catatsuy/articles/901fbb10aa6ff2",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQLgPubXXvzBF2TWxvu\"}"
+  },
+  {
+    "title": "DuckDB-spatial の対抗馬！？　SedonaDB 最速入門",
+    "date": "2025-09-28T03:16:25.000Z",
+    "source": "Zennのトレンド",
+    "url": "https://zenn.dev/mierune/articles/32197d0f04750e",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQLhTfAWQxqNFKzxmG4\"}"
+  },
+  {
+    "title": "vercel/next.js – v15.6.0-canary.32",
+    "date": "2025-09-27T23:37:31.000Z",
+    "source": "GitHub",
+    "url": "https://github.com/vercel/next.js/releases/tag/v15.6.0-canary.32",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQLiWATE1sZaCMxgCm6\"}"
+  },
+  {
+    "title": "Intel Mac→Mシリーズに移行した人が必ずハマるポイント",
+    "date": "2025-09-27T15:34:36.000Z",
+    "source": "Zennのトレンド",
+    "url": "https://zenn.dev/acntechjp/articles/230b0bb616c9e5",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQLjXg6Q356Q66UNnZx\"}"
+  },
+  {
+    "title": "コーディングエージェントのauto-compactの仕組みを読み解く - タスク引継ぎの再現性を高める方法",
+    "date": "2025-09-27T14:27:04.000Z",
+    "source": "Zennのトレンド",
+    "url": "https://zenn.dev/gotalab/articles/4b74e6810db959",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQLkbAr6t5iQ5aL6arH\"}"
+  },
+  {
+    "title": "文系バイブコーダーからR&Dエンジニアになるまでにやったこと",
+    "date": "2025-09-27T09:34:48.000Z",
+    "source": "Zennのトレンド",
+    "url": "https://zenn.dev/yasuna/articles/79fc2626ed8b7c",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQLnEQBqZ6AeMKeUUGR\"}"
+  },
+  {
+    "title": "Java 仮想マシンを自作したい全ての方々へ",
+    "date": "2025-09-27T08:10:07.000Z",
+    "source": "Zennのトレンド",
+    "url": "https://zenn.dev/peyang/articles/making-jvm-knowledges",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQLoJeCCd9ujwmvwkxD\"}"
+  },
+  {
+    "title": "２週間のインターンで SSR・CDN 環境下での A/B テスト基盤を構築してみた",
+    "date": "2025-09-27T06:43:20.000Z",
+    "source": "Zennのトレンド",
+    "url": "https://zenn.dev/huitgroup/articles/web-specialized-boot-camp",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQLpN8pbfaYQuqsD8D1\"}"
+  },
+  {
+    "title": "「スケルトンテスト」でテストの作成を自分に強制する",
+    "date": "2025-09-27T03:00:01.000Z",
+    "source": "Zennのトレンド",
+    "url": "https://zenn.dev/knowledgework/articles/10a3ad55d84503",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQLqizMPnc5CaUA6pHe\"}"
+  },
+  {
+    "title": "Temporal APIの現在地（2025年9月時点）",
+    "date": "2025-09-26T19:04:31.000Z",
+    "source": "Zennのトレンド",
+    "url": "https://zenn.dev/fabon/articles/4dbe40896fac73",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQLrqi9NDUQ3oH9QKg2\"}"
+  },
+  {
+    "title": "決定論的システムと非決定論的AI Agentの接合点：OSSフレームワークEmbabelが拓く新しいソフトウェア開発の可能性",
+    "date": "2025-09-26T08:59:35.000Z",
+    "source": "Zennのトレンド",
+    "url": "https://zenn.dev/loglass/articles/e6525e7e8b7a69",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQLsvwievdh2sAMoej1\"}"
+  },
+  {
+    "title": "国防総省の演習において AWS がレジリエントかつセキュアなエッジトゥクラウドを実証",
+    "date": "2025-09-26T08:33:30.000Z",
+    "source": "Amazon Web Services ブログ",
+    "url": "https://aws.amazon.com/jp/blogs/news/aws-demonstrates-resilient-and-secure-edge-to-cloud-at-department-of-defense-exercise/",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQLu3fe9gHFqKgb59g1\"}"
+  },
+  {
+    "title": "【寄稿】株式会社 GEOTRA 未来の人流シミュレーションへの取組",
+    "date": "2025-09-26T06:49:03.000Z",
+    "source": "Amazon Web Services ブログ",
+    "url": "https://aws.amazon.com/jp/blogs/news/geotra-human-flow-visualization-simulation/",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQLv6g3WXNtmBdbSBeS\"}"
+  },
+  {
+    "title": "コンタクトセンターのワークフォース管理を最適化する Amazon Connect の予測、キャパシティプランニング、スケジューリング機能 (2025 年第 2 四半期)",
+    "date": "2025-09-26T04:44:45.000Z",
+    "source": "Amazon Web Services ブログ",
+    "url": "https://aws.amazon.com/jp/blogs/news/elevate-your-contact-center-workforce-management-using-the-new-amazon-connect-forecasting-capacity-planning-and-scheduling-features-2025-q2/",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQLwBA7Uf83UBUMFR4t\"}"
+  },
+  {
+    "title": "コンタクトセンター運用を最適化する Amazon Connect の予測、キャパシティプランニング、スケジューリング機能",
+    "date": "2025-09-26T04:35:22.000Z",
+    "source": "Amazon Web Services ブログ",
+    "url": "https://aws.amazon.com/jp/blogs/news/elevate-your-contact-center-using-the-new-amazon-connect-forecasting-capacity-planning-and-scheduling-features/",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQLxDR95C7hRzMryK7y\"}"
+  },
+  {
+    "title": "GitHub Copilot CLI入門",
+    "date": "2025-09-26T04:01:12.000Z",
+    "source": "Zennのトレンド",
+    "url": "https://zenn.dev/thirdlf/articles/36-zenn-github-copilot-cli",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQLyGvHHFSrv4yvQojs\"}"
+  },
+  {
+    "title": "Nova Act IDE 拡張機能で AI エージェント開発を加速",
+    "date": "2025-09-26T01:18:27.000Z",
+    "source": "Amazon Web Services ブログ",
+    "url": "https://aws.amazon.com/jp/blogs/news/accelerate-ai-agent-development-with-the-nova-act-ide-extension/",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQLzMeuYLuxfAm8yRQ7\"}"
+  },
+  {
+    "title": "東京海上日動システムズ株式会社様の AWS 生成 AI 事例：金融業界初 AI-DLC Unicorn Gym による開発変革への挑戦",
+    "date": "2025-09-26T01:01:36.000Z",
+    "source": "Amazon Web Services ブログ",
+    "url": "https://aws.amazon.com/jp/blogs/news/tokio-marine-ai-dlc/",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQM1Rtp6fyBJywqaLDW\"}"
+  },
+  {
+    "title": "Storybook公式MCPの解説とその先 - Design Systems with Agentsの提案について -",
+    "date": "2025-09-26T00:13:24.000Z",
+    "source": "Zennのトレンド",
+    "url": "https://zenn.dev/cybozu_frontend/articles/e17267112d7816",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQM2UeirTRH6pzFhvfV\"}"
+  },
+  {
+    "title": "Amazon Q Developer for GitHub によるインタラクティブなコードレビュー体験の紹介",
+    "date": "2025-09-26T00:06:17.000Z",
+    "source": "Amazon Web Services ブログ",
+    "url": "https://aws.amazon.com/jp/blogs/news/interactive-code-review-with-amazon-q-developer-for-github/",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQM3X9jUNxP2NUsTfg9\"}"
+  },
+  {
+    "title": "vercel/next.js – v15.6.0-canary.31",
+    "date": "2025-09-25T23:37:10.000Z",
+    "source": "GitHub",
+    "url": "https://github.com/vercel/next.js/releases/tag/v15.6.0-canary.31",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQM4b9aTF1yQCQV3H9L\"}"
+  },
+  {
+    "title": "Claude Codeカスタムコマンド完全ガイド：基礎から実践まで、開発効率を劇的に向上させる自動化テクニック",
+    "date": "2025-09-25T20:56:30.000Z",
+    "source": "Zennのトレンド",
+    "url": "https://zenn.dev/tmasuyama1114/articles/claude_code_commands",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQM5g8ck6yqsTooA4QB\"}"
+  },
+  {
+    "title": "nodejs/node – 2025-09-25, Version 24.9.0 (Current), @targos",
+    "date": "2025-09-25T19:52:13.000Z",
+    "source": "GitHub",
+    "url": "https://github.com/nodejs/node/releases/tag/v24.9.0",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQM6mcgv8JH9k96Ma3h\"}"
+  },
+  {
+    "title": "vercel/next.js – v15.6.0-canary.30",
+    "date": "2025-09-25T19:30:38.000Z",
+    "source": "GitHub",
+    "url": "https://github.com/vercel/next.js/releases/tag/v15.6.0-canary.30",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQM7u5Uf2e7VTSnkcDd\"}"
+  },
+  {
+    "title": "Amazon SageMaker レイクハウスアーキテクチャによる Amazon S3 上の Apache Iceberg テーブルの最適化設定の自動化",
+    "date": "2025-09-25T09:33:25.000Z",
+    "source": "Amazon Web Services ブログ",
+    "url": "https://aws.amazon.com/jp/blogs/news/the-amazon-sagemaker-lakehouse-architecture-now-automates-optimization-configuration-of-apache-iceberg-tables-on-amazon-s3/",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQM95mdNvq1BNN6UEyJ\"}"
+  },
+  {
+    "title": "vercel/next.js – v15.6.0-canary.29",
+    "date": "2025-09-25T01:13:02.000Z",
+    "source": "GitHub",
+    "url": "https://github.com/vercel/next.js/releases/tag/v15.6.0-canary.29",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQMAA1oRpuUhip33x2Q\"}"
+  },
+  {
+    "title": "nodejs/node – 2025-09-24, Version 22.20.0 'Jod' (LTS), @richardlau",
+    "date": "2025-09-24T14:04:23.000Z",
+    "source": "GitHub",
+    "url": "https://github.com/nodejs/node/releases/tag/v22.20.0",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQMBD1hqhEbUEoz39ba\"}"
+  },
+  {
+    "title": "vitejs/vite – create-vite@8.0.1",
+    "date": "2025-09-23T14:02:50.000Z",
+    "source": "GitHub",
+    "url": "https://github.com/vitejs/vite/releases/tag/create-vite%408.0.1",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQMCPhiVaitS2KSy6eN\"}"
+  },
+  {
+    "title": "vitejs/vite – create-vite@8.0.0",
+    "date": "2025-09-23T08:18:30.000Z",
+    "source": "GitHub",
+    "url": "https://github.com/vitejs/vite/releases/tag/create-vite%408.0.0",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQMDd7xtUCz9gjnoqtg\"}"
+  },
+  {
+    "title": "vitejs/vite – create-vite@8.0.0-beta.0",
+    "date": "2025-09-23T02:20:30.000Z",
+    "source": "GitHub",
+    "url": "https://github.com/vitejs/vite/releases/tag/create-vite%408.0.0-beta.0",
+    "summary": "(要約失敗) Anthropic API error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011CTcQMEiMauxN7Fhk85ZWj\"}"
+  }
+]
