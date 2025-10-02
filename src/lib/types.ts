@@ -5,5 +5,5 @@ export interface FeedItem {
   date: string // ISO string
   source: 'Qiita' | 'Zenn' | 'GitHub' | 'Twitter' | string
   url: string
-  summary: string
+  content: string
 }

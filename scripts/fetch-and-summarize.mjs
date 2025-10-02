@@ -11,9 +11,8 @@ const root = path.resolve(__dirname, '..')
 const dataDir = path.join(root, 'public', 'data')
 const configPath = path.join(root, 'config', 'sources.json')
 
-const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY || ''
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN || process.env.GH_TOKEN || ''
-const MAX_ITEMS = Number(process.env.MAX_ITEMS || '40') // summarization cap per day
+const MAX_ITEMS = Number(process.env.MAX_ITEMS || '40') // item cap per day
 
 function yyyymmddUTC(date = new Date()) {
   const y = date.getUTCFullYear()
@@ -24,42 +23,6 @@ function yyyymmddUTC(date = new Date()) {
 
 function sleep(ms) { return new Promise(r => setTimeout(r, ms)) }
 
-async function summarizeWithClaude(text, title, url) {
-  if (!ANTHROPIC_API_KEY) {
-    // fallback: naive summary (first ~500 chars)
-    const s = text?.trim().replace(/\s+/g, ' ').slice(0, 500)
-    return s || '(要約なし)'
-  }
-  const body = {
-    model: 'claude-3-5-sonnet-20240620',
-    max_tokens: 256,
-    temperature: 0.2,
-    messages: [
-      {
-        role: 'user',
-        content: [
-          { type: 'text', text: `以下の技術記事を、箇条書き3-6点で日本語要約してください。重要キーワードを残し、冗長表現を避けてください。\n\nタイトル: ${title}\nURL: ${url}\n本文:\n${text?.slice(0, 6000) || ''}` }
-        ]
-      }
-    ]
-  }
-  const res = await fetch('https://api.anthropic.com/v1/messages', {
-    method: 'POST',
-    headers: {
-      'content-type': 'application/json',
-      'x-api-key': ANTHROPIC_API_KEY,
-      'anthropic-version': '2023-06-01'
-    },
-    body: JSON.stringify(body)
-  })
-  if (!res.ok) {
-    const t = await res.text().catch(() => '')
-    throw new Error(`Anthropic API error: ${res.status} ${t}`)
-  }
-  const json = await res.json()
-  const textOut = json?.content?.[0]?.text || ''
-  return textOut.trim()
-}
 
 async function fetchRSS(rssList) {
   const parser = new Parser()
@@ -180,22 +143,17 @@ async function main() {
   }
   const limited = deduped.slice(0, Math.max(0, MAX_ITEMS))
 
-  const summarized = []
-  for (const it of limited) {
-    const summary = await summarizeWithClaude(it.raw || '', it.title, it.url).catch(e => `(要約失敗) ${e.message}`)
-    summarized.push({
-      title: it.title,
-      date: new Date(it.date).toISOString(),
-      source: it.source,
-      url: it.url,
-      summary
-    })
-    await sleep(200) // gentle pace
-  }
+  const processed = limited.map(it => ({
+    title: it.title,
+    date: new Date(it.date).toISOString(),
+    source: it.source,
+    url: it.url,
+    content: it.raw || ''
+  }))
 
   const filename = `summary-${yyyymmddUTC()}.json`
   const outPath = path.join(dataDir, filename)
-  fs.writeFileSync(outPath, JSON.stringify(summarized, null, 2))
+  fs.writeFileSync(outPath, JSON.stringify(processed, null, 2))
   console.log('written', outPath)
 
   rotateOldFiles(dataDir, 3)

@@ -13,10 +13,9 @@ export default function FeedCard({ item }: { item: FeedItem }) {
         </span>
         <time style={{ color: '#9ca3af', fontSize: 12 }}>{new Date(item.date).toLocaleString()}</time>
       </div>
-      <a href={item.url} target="_blank" rel="noreferrer" style={{ fontSize: 16, fontWeight: 600, display: 'inline-block', marginBottom: 8 }}>
+      <a href={item.url} target="_blank" rel="noreferrer" style={{ fontSize: 16, fontWeight: 600, display: 'inline-block' }}>
         {item.title}
       </a>
-      <p style={{ whiteSpace: 'pre-wrap', lineHeight: 1.6, margin: 0 }}>{item.summary}</p>
     </article>
   )
 }

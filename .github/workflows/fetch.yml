@@ -19,7 +19,6 @@ jobs:
       - run: npm install --no-audit --no-fund
       - name: Run fetch script
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GITHUB_TOKEN: ${{ github.token }}
         run: npm run fetch
       - name: Commit data changes
