@@ -2,7 +2,7 @@ name: Fetch & Summarize Daily
 
 on:
   schedule:
-    - cron: '7 1 * * *' # UTC。JST 10:07頃
+    - cron: '0 23 * * *' # UTC。JST 8:00頃
   workflow_dispatch: {}
 
 permissions:
